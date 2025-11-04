@@ -1,0 +1,11 @@
+# Ignorar TUDO por padrão
+*
+
+# EXCETO estas pastas/arquivos do projeto
+!Projeto/
+!README.md
+!/.gitignore
+
+# Ignorar pastas específicas
+Documentos/
+apache-maven-3.9.11-bin/
